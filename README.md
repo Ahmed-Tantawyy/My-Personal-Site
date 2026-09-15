@@ -1,2 +1,2 @@
 # My-Personal-Site
-My first ever personal site using simple HTML AND CSS, hope it looks good!
+This is my first ever website, the second version, I made it using HTML and CSS, it has some features, which are navigation bars that navigate you to the Home page, About me page, and the contact page, and the second feature is the buttons in the contact page which make you able to press on it and visit my GitHub account and my StarDance account, hope you liked these features, if you have any comments I will definitely appreciate it.
